@@ -10,7 +10,7 @@
 
 .titleH1 {
   color: #0F0;
-  font-size: 4em;
+  font-size: 6em;
   margin-bottom: -30px;
   padding-bottom: 0;
 }
@@ -18,6 +18,7 @@
 .titleH6 {
   margin-bottom: 1em;
   border-bottom: 1px solid #00F;
+  font-size: 2em;
 }
 
 .cntr { text-align: center; }
