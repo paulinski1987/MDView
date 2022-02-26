@@ -1,0 +1,50 @@
+@font-face {
+    font-family: arcade;
+    src: url("ARCADE.TTF");
+}
+
+.arcade {
+  font-family: arcade;
+
+}
+
+.titleH1 {
+  color: #0F0;
+  font-size: 4em;
+  margin-bottom: -30px;
+  padding-bottom: 0;
+}
+
+.titleH6 {
+  margin-bottom: 1em;
+  border-bottom: 1px solid #00F;
+}
+
+.cntr { text-align: center; }
+
+.entry {
+  display: block;
+  height: 30vh;
+  margin: auto;
+  overflow: auto;
+  width: 94%;
+}
+
+.content {
+  background: #FFF;
+  border: 2px solid blue;
+  color: #000;
+  font-family: sans-serif;
+  margin: 1em auto 0 auto;
+  min-height: 50px;
+  padding: 1em;
+
+}
+
+blockquote { color: #000; }
+ pre {
+  background: rgba(0,255,0, 0.3);
+}
+code {
+  background: rgba(255,255,255,0);
+}
